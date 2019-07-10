@@ -1,0 +1,69 @@
+                                    Datos usados
+
+             Presion en la cabeza del pozo                  1200.0    [PSI]
+             Temperatura en la cabeza del pozo                90.0    [°F]
+             Temperatura en el fondo del pozo              200.000    [°F]
+             Gasto de aceite a condiciones estándar      10000.000    [STB/día]
+             Gravedad específca del aceite                   0.930    [agua= 1]
+             Relacion gas aceite producido                  1000.0    [SCF/STB]
+             Gravedad especifica del gas total producido     0.750    [aire=1]
+             Diámetro de la tubería                          6.000    [in]
+             Rugosidad de la tubería                         0.001    [in]
+             Longitud de la tubería                      25000.000    [ft]
+             Dirección                                           1    [ascendente=1 descendente=2]
+             Ángulo de inclinación                            90.0    [°]
+
+             Presion de Separación                          981.00    [PSI]
+             Temperatura de Separacion                    91817.00    [°F]
+
+ Celda (  1)
+ Presion promedio     :   1612.43689     [PSI]
+ Temperatura promedio :   101.000000     [°F]
+ Gradiente de presión :  0.329949081     [PSI/ft]
+ 
+ Celda (  2)
+ Presion promedio     :   2429.92700     [PSI]
+ Temperatura promedio :   112.000000     [°F]
+ Gradiente de presión :  0.324034363     [PSI/ft]
+ 
+ Celda (  3)
+ Presion promedio     :   3218.84717     [PSI]
+ Temperatura promedio :   123.000000     [°F]
+ Gradiente de presión :  0.307094097     [PSI/ft]
+ 
+ Celda (  4)
+ Presion promedio     :   3964.31763     [PSI]
+ Temperatura promedio :   134.000000     [°F]
+ Gradiente de presión :  0.289283693     [PSI/ft]
+ 
+ Celda (  5)
+ Presion promedio     :   4665.69336     [PSI]
+ Temperatura promedio :   145.000000     [°F]
+ Gradiente de presión :  0.271818519     [PSI/ft]
+ 
+ Celda (  6)
+ Presion promedio     :   5324.45605     [PSI]
+ Temperatura promedio :   156.000000     [°F]
+ Gradiente de presión :  0.255171180     [PSI/ft]
+ 
+ Celda (  7)
+ Presion promedio     :   5942.89453     [PSI]
+ Temperatura promedio :   167.000000     [°F]
+ Gradiente de presión :  0.239537850     [PSI/ft]
+ 
+ Celda (  8)
+ Presion promedio     :   6523.59473     [PSI]
+ Temperatura promedio :   178.000000     [°F]
+ Gradiente de presión :  0.224980652     [PSI/ft]
+ 
+ Celda (  9)
+ Presion promedio     :   7069.23340     [PSI]
+ Temperatura promedio :   189.000000     [°F]
+ Gradiente de presión :  0.211490229     [PSI/ft]
+ 
+ Celda ( 10)
+ Presion promedio     :   7582.41992     [PSI]
+ Temperatura promedio :   200.000000     [°F]
+ Gradiente de presión :  0.199020267     [PSI/ft]
+ 
+ Presión en el fondo  :   7831.21875     [PSI]

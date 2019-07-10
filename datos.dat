@@ -1,0 +1,12 @@
+1200          !Presión en la cabeza del pozo      	       [PSI]
+90            !Temperatura en cabeza del pozo  			   [°F]
+200           !Temperatura en el fondo del pozo 		   [°F]
+10000         !Gasto de aceite a condiciones estándar      [STB/día]
+0.93          ¡Gravedad específica del aceite              [agua=1]
+1000          ¡Relación gas aceite producido               [SCF/STB]
+0.75          !Gravedad específica del gas total producido [aire=1]
+6.0           !Diámetro de la tubería  				       [in]
+0.0006        !Rugosidad de la tubería 				       [in]
+25000.0       !Longitud de la tubería        			   [ft]
+1             ¡Dirección de flujo 1=ascendente 2=descendente
+90.0          ¡Ángulo de inclinación de la tubería          [°]
